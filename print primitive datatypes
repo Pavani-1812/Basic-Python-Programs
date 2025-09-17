@@ -1,0 +1,6 @@
+a=10
+b=2.13
+c=True
+print("integer is:",a)
+print("fioat is:",b)
+print("boolean is:",c)
