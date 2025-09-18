@@ -1,0 +1,13 @@
+a=float(input("enter a first number:"))
+b=float(input("enter a second number:"))
+op=input("choose:+ _ * /")
+if(op=="+"):
+  print("result=",a+b)
+elif(op=="-"):
+  print("result=",a-b)
+elif(op=="*"):
+  print("result=",a*b)
+elif(op=="/"):
+  print("result=",a/b)
+else:
+  print("invalid")
